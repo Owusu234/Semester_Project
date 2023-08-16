@@ -1,0 +1,14 @@
+User's First Name Is : Owusu
+
+User's Last Name Is : Felix
+
+User's Mobile Number Is : 241174194
+
+User's Address Is : Owusufelix
+
+Your Nationality is a / an : Ghanaian
+
+Gender : male
+
+Next Of Kin : EstherOwusu
+
